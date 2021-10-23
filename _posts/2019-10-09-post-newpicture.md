@@ -1,5 +1,5 @@
 ---
-layout: classe work
+layout: posts
 title: webs
 ---
 

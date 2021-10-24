@@ -11,20 +11,22 @@ comments: false
 
 |    |    | **Experience**                                                             |
 |----|----|-------------------------------------------------------------------------------|
-|2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
+|2002| now | nothing **yet **,  |
 |----|----|-------------------------------------------------------------------------------|
-|2005|2018| **Senior Research Software Development Engineer**, Microsoft Research, Redmond WA |
+||| ****, |
 |----|------|-------------------------------------------------------------------------------|
-|2005|      | **Research Intern**, Microsoft Research, Redmond WA |
+||      | ****,|
 |----|------|-------------------------------------------------------------------------------|
-|2004|      | **Research Intern**, Microsoft Research, Redmond WA |
+||      | ****, |
 
 
 
 |     |    |**Education**                                                               |
 |-----|----|----------------------------------------------------------------------------------|
-|2008 |2016| **PhD**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
+|2021 |now | **BS**, I am learning Computer Engineering, IUST university, Tehran, Iran                               |
 |-----|----|----------------------------------------------------------------------------------|
-|2003 |2005| **MSc**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
+|2018 |2021| **diploma**, Mathematics and Physics , imam mosa sadr high school, Tehran, Iran           |                        |
 |-----|----|----------------------------------------------------------------------------------|
-|1997 |2001| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               |
+|2015 |2018| **midle school**,omid enghelab school, Tehran, Iran                                       |
+|-----|----|----------------------------------------------------------------------------------|
+|2009 |2015| **primary school**,imam khomeiny school, Tehran, Iran                                     |

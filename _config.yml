@@ -110,7 +110,7 @@ author:
   name             : "amir pashazadeh"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : i am amir pashazadeh.recently i join to computer programming and uni.
-  location         : "تهران"
+  location         : " تهران حکیمیه کوی دانشگاه فاز دو "
   email            : amirpashazadeh118@gmail.com
   twitter: 
   linkedin: pasha
@@ -141,7 +141,7 @@ author:
       url: "https://amirpashazadeh.github.io/"
     - label: "Telegram"
       icon: "@fantomapab"
-      url: "https://amirpashazadeh.github.io/"
+      url: "@fantomapab"
 
 # Site Footer
 footer:

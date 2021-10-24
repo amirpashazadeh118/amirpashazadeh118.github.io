@@ -132,7 +132,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://amirpashazadeh.github.io/"
+      # url: "https://github.com/"
     - label: ""
       icon: ""
       # url: "https://instagram.com/"

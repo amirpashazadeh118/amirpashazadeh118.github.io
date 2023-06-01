@@ -142,6 +142,9 @@ author:
     - label: "Telegram"
       icon: "@fantomapab"
       url: "https://t.me/fantomapab"
+    - label: "nationality : iran"
+    icon: "nationality : iran"
+    url: "https://www.visitiran.ir/"
 
 # Site Footer
 footer:

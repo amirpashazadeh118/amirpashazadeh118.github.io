@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "amir pashazade"
+  name             : "amir pashazadeh"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : i am amir pashazadeh.recently i join to computer programming and uni.
   location         : " تهران حکیمیه کوی دانشگاه فاز دو "
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "telephon: 09197657805"
       icon: "telephon: 09197657805"
-      url: "09197657805or02177304479"
+      # url: "09197657805or02177304479"
     - label: "marital status : single"
       icon: "marital status : single"
       url: "09197657805or02177304479"

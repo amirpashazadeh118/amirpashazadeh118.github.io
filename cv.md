@@ -23,7 +23,7 @@ comments: false
 
 |     |    |**Education**                                                               |
 |-----|----|----------------------------------------------------------------------------------|
-|2021 |now | **BS**, I am learning Computer Engineering, IUST university, Tehran, Iran                               |
+|2021 |now | **BS**,  I am learning Computer Engineering, IUST university, Tehran, Iran                               |
 |-----|----|----------------------------------------------------------------------------------|
 |2018 |2021| **diploma**, Mathematics and Physics , imam mosa sadr high school, Tehran, Iran           |                        |
 |-----|----|----------------------------------------------------------------------------------|

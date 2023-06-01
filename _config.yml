@@ -122,8 +122,8 @@ author:
     - label: "amirpashazadeh118@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "https://amirpashazadeh.github.io/"
+    # - label: "Website"
+    #   icon: "https://amirpashazadeh.github.io/"
       # url: "https://your-website.com"
     - label: ""
       icon: ""

@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "amir pashazadeh"
+  name             : "amir pashazade"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : i am amir pashazadeh.recently i join to computer programming and uni.
   location         : " تهران حکیمیه کوی دانشگاه فاز دو "
@@ -146,8 +146,8 @@ author:
       icon: "@fantomapab"
       url: "https://t.me/fantomapab"
     - label: "nationality : iran"
-    icon: "nationality : iran"
-    url: "https://www.visitiran.ir/"
+      icon: "nationality : iran"
+      url: "https://www.visitiran.ir/"
 
 # Site Footer
 footer:

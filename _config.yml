@@ -107,22 +107,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "amir pashazade"
+  name             : "amir pashazad amjad bonab"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : i am amir pashazadeh.recently i join to computer programming and uni.
-  location         : " تهران حکیمیه کوی دانشگاه فاز دو "
+  location         : " Iran - Tehran - Hakimieh"
   email            : amirpashazadeh118@gmail.com
   twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: amirpashazadeh.github.io
+  github: amirpashazadeh118
+
   instagram: 
   links:
-    - label: "amirpashazadeh118@gmail.com"
+    -  label: "amirpashazadeh118@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "https://amirpashazadeh.github.io/"
+      url: amirpashazadeh118@gmail.com
+    # - label: "Website"
+    #   icon: "https://amirpashazadeh.github.io/"
       # url: "https://your-website.com"
     - label: ""
       icon: ""
@@ -130,18 +131,27 @@ author:
     - label: ""
       icon: ""
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    - label: "gender : male"
+      icon: "gender : male"
+      # url: "https://github.com/amirpashazadeh118/"
     - label: ""
       icon: ""
       # url: "https://instagram.com/"
     - label: "telephon: 09197657805"
       icon: "telephon: 09197657805"
       url: "09197657805or02177304479"
+    label: "date of birth : 1381/10/4"
+      icon: "date of birth : 1381/10/4"
+      url: "https://birth.carbalad.com/1381/10/4/male/2LTZhdin"
+    - label: "marital status : single"
+      icon: "marital status : single"
+      url: "09197657805or02177304479"
     - label: "Telegram"
       icon: "@fantomapab"
       url: "https://t.me/fantomapab"
+    - label: "nationality : iran"
+      icon: "nationality : iran"
+      url: "https://www.visitiran.ir/"
 
 # Site Footer
 footer:

@@ -110,7 +110,7 @@ author:
   name             : "amir pashazadeh"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : i am amir pashazadeh.recently i join to computer programming and uni.
-  location         : " تهران حکیمیه کوی دانشگاه فاز دو "
+  location         : " Iran - Tehran - Hakimieh"
   email            : amirpashazadeh118@gmail.com
   twitter: 
   linkedin: 
@@ -138,7 +138,10 @@ author:
       # url: "https://instagram.com/"
     - label: "telephon: 09197657805"
       icon: "telephon: 09197657805"
-      # url: "09197657805or02177304479"
+      url: "09197657805or02177304479"
+    label: "date of birth : 1381/10/4"
+      icon: "date of birth : 1381/10/4"
+      url: "https://birth.carbalad.com/1381/10/4/male/2LTZhdin"
     - label: "marital status : single"
       icon: "marital status : single"
       url: "09197657805or02177304479"

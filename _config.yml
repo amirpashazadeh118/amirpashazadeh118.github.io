@@ -108,6 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "amir pashazade"
+  gender           : male
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : i am amir pashazadeh.recently i join to computer programming and uni.
   location         : " تهران حکیمیه کوی دانشگاه فاز دو "
@@ -132,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/amirpashazadeh118/"
     - label: ""
       icon: ""
       # url: "https://instagram.com/"

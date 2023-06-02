@@ -14,7 +14,7 @@ main:
     url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
-  - title: "Blog"
+  - title: "BIO GRAPHY"
     url: /blog/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

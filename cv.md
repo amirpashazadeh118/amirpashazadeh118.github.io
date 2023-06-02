@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-|    |    | **Experience**                                                             |
+|    |    | **Honors and award**                                                             |
 |----|----|-------------------------------------------------------------------------------|
 |2002| now | nothing **yet **,  |
 |----|----|-------------------------------------------------------------------------------|
@@ -23,12 +23,12 @@ comments: false
 
 |     |    |**Education**         
 |-----|----|----------------------------------------------------------------------------------|
-|2022 |2025(expected) | **BS**,   Computer Engineering, K.N.Toosi university, Tehran, Iran                               |                                                      |
+|2022 |2025 (expected) | **BS**,   Computer Engineering, K.N.Toosi university, Tehran, Iran                               |                                                      |
 |-----|----|----------------------------------------------------------------------------------|
-|2021 |2022           | **BS**,  Computer Engineering, IUST university, Tehran, Iran                               |
+|2021 |2022            | **BS**,  Computer Engineering, IUST university, Tehran, Iran                               |
 |-----|----|----------------------------------------------------------------------------------|
-|2018 |2021           | **diploma**, Mathematics and Physics , imam mosa sadr high school, Tehran, Iran           |                        |
+|2018 |2021            | **diploma**, Mathematics and Physics , Imam Moosa Sadr high school, Tehran, Iran           |                        |
 |-----|----|----------------------------------------------------------------------------------|
-|2015 |2018           | **midle school**,omid enghelab school, Tehran, Iran                                       |
+|2015 |2018            | **midle school**,Omid Enghelab school, Tehran, Iran                                       |
 |-----|----|----------------------------------------------------------------------------------|
-|2009 |2015           | **primary school**,imam khomeiny school, Tehran, Iran                                     |
+|2009 |2015            | **primary school**,Imam Khomeiny school, Tehran, Iran                                     |

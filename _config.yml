@@ -110,19 +110,19 @@ author:
   name             : "amir pashazade"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : i am amir pashazadeh.recently i join to computer programming and uni.
-  location         : " تهران حکیمیه کوی دانشگاه فاز دو "
+  location         : "Iran - Tehran - Hakimieh"
   email            : amirpashazadeh118@gmail.com
   twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: amirpashazadeh.github.io
+  github: amirpashazadeh118.github.io
   instagram: 
   links:
     - label: "amirpashazadeh118@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:your.name@email.com
     - label: "Website"
-      icon: "https://amirpashazadeh.github.io/"
+      icon: "https://amirpashazadeh118.github.io/"
       # url: "https://your-website.com"
     - label: ""
       icon: ""

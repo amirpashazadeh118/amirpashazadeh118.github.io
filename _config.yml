@@ -119,8 +119,8 @@ author:
   instagram: 
   links:
     - label: "amirpashazadeh118@gmail.com"
-      icon: "amirpashazadeh118@gmail.com"
-      url: "amirpashazadeh118@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://amirpashazadeh118@gmail.com"
     - label: "Website"
       icon: "https://amirpashazadeh118.github.io/"
       # url: "https://your-website.com"

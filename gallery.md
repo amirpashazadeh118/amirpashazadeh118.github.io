@@ -33,5 +33,5 @@ gallery:
     title: "IUST build"
 ---
 
-{% include gallery caption="**My gallery**" %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
